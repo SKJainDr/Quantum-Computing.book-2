@@ -346,7 +346,8 @@
   const SERIES_LINKS = [
       {
           label: "Laboratory Manual I — Hands-on Qiskit Experiments", url: "https://skjaindr.github.io/Quantum-Computing.labmanual-1/" },
-      { label: "Volume I — Quantum Computers", url: "https://skjaindr.github.io/Quantum-Computing.book-1/" }, // TODO: set to your deployed Volume I URL
+      { label: "Volume I — Quantum Computers", url: "https://skjaindr.github.io/Quantum-Computing.book-1/" },
+      { label: "Volume III — Quantum Hardware, Error Correction & Applications", url: "https://skjaindr.github.io/Quantum-Computing.book-3/" },
   ];
 
   function initSeriesLinks() {
